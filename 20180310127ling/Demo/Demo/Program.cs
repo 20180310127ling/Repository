@@ -9,6 +9,9 @@ namespace Demo
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!  你好 ！");
             Console.WriteLine("Hello World! 您好！ ");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!  你好 ！");
+            Console.WriteLine("Hello World! 您好！ ");
             Console.ReadLine();
         }
     }
