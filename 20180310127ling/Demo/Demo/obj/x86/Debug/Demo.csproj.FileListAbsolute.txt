@@ -1,0 +1,6 @@
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/bin/Debug/Demo.exe
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/bin/Debug/Demo.pdb
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/obj/x86/Debug/Demo.csprojAssemblyReference.cache
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/obj/x86/Debug/Demo.csproj.CoreCompileInputs.cache
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/obj/x86/Debug/Demo.exe
+/Users/lingguangyu/Desktop/未命名文件夹/20180310127ling/Demo/Demo/obj/x86/Debug/Demo.pdb
